@@ -1,2 +1,2 @@
 # HeliShooter
-Simple game with SDL for understanding 2D graphics basics
+Simple game with SDL and Entity-Component for understanding 2D graphics basics
